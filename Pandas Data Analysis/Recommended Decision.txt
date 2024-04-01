@@ -1,0 +1,8 @@
+#Recommended Decision after  analysis
+
+
+1. **Investigate the relationship between age and attrition rate.** The analysis shows that there is a slight trend of increasing attrition rate with age, particularly for employees in the 45-55 and 55-65 age groups. Further analysis could explore potential reasons for this trend, such as job satisfaction, career stage, or personal circumstances.
+2. **Explore the impact of hometown on attrition rate.** The analysis shows that employees from certain hometowns have higher attrition rates. Further analysis could investigate the potential reasons for these differences, such as cultural factors, job opportunities, or cost of living.
+3. **Examine the relationship between gender and attrition rate.** The analysis shows that there is a slightly higher attrition rate for male employees compared to female employees. Further analysis could explore potential reasons for this difference, such as career opportunities, work-life balance, or personal circumstances.
+4. **Investigate the correlation between time of service and attrition rate.** The analysis shows that there is a negative correlation between time of service and attrition rate, suggesting that employees with longer tenure are less likely to leave the company. Further analysis could explore the potential reasons for this trend, such as job satisfaction, career development opportunities, or company culture.
+5. **Develop a predictive model for attrition risk.** Based on the analysis, a predictive model could be developed to identify employees who are at higher risk of attrition. This model could be used to develop targeted interventions to reduce attrition and improve employee retention.
